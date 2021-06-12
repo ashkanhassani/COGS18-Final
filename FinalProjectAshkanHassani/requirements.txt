@@ -1,0 +1,7 @@
+The code was written using python 3.8 on windows 10
+tkinter is used for GUI of the calculator 
+All values were validated using OpenEpi
+
+epi_calculator_functions.py has my 3 orginal main functions
+epi_calc_gui.py has the tkinter GUI code and it calls on the epi_calculator_functions.py
+You need to run epi_calc_gui to use the application
